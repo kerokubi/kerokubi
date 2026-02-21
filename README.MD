@@ -8,11 +8,11 @@
 </h1>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/kerokuby" target="_blank">
+  <a href="https://tryhackme.com/p/kerokubi" target="_blank">
     <img alt="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-2d3b29?style=flat-square&logo=tryhackme&logoColor=white" style="display: block;" />
   </a>
-  <a href="https://www.hackthebox.com/profile/127346" target="_blank">
-    <img alt="HackTheBox" src="https://img.shields.io/badge/-HackTheBox-2e3c72?style=flat-square&logo=hackthebox&logoColor=white" style="display: block;" />
+  <a href="https://www.hackthebox.com/profile/kerokubi" target="_blank">
+  <img alt="HackTheBox" src="https://img.shields.io/badge/-HackTheBox-2e3c72?style=flat-square&logo=hackthebox&logoColor=white" style="display: block;" />
   </a>
   <a href="https://picoctf.org/users/12475" target="_blank">
     <img alt="picoCTF" src="https://img.shields.io/badge/-picoCTF-ff5e57?style=flat-square&logo=picoctf&logoColor=white" style="display: block;" />
