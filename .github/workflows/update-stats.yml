@@ -1,0 +1,27 @@
+name: Force Refresh Stats Cache
+
+on:
+  schedule:
+    # Dit draait elke week op zondag om middernacht (00:00)
+    - cron: '0 0 * * 0'
+  workflow_dispatch: # Hiermee kun je het ook handmatig starten
+
+jobs:
+  refresh-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Update Cache Buster
+        run: |
+          # Dit vervangt v=[nummer] door de huidige tijd (uniek nummer)
+          sed -i "s/&v=[0-9]*/&v=${{ github.run_id }}/g" README.md
+          
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add README.md
+          git commit -m "chore: update stats cache buster" || exit 0
+          git push
