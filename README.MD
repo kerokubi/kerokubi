@@ -57,6 +57,6 @@
 </p>
 
 <div style="display: flex; justify-content: flex-start; gap: 2%;">
-  <img alt="my stats" width="47%" src="https://statss-pink.vercel.app/api?username=KubyKero&show_icons=true&theme=radical&cache_seconds=300&count_private=true&v=0v=22240026796v=22232408984v=22224953573v=22217210875v=22212303612v=22208206715v=22198915932v=22191289920v=22182865397v=22174566203v=22169620135v=22165551856v=22156688452v=22149459976v=22140776160v=22132620708v=22127701906v=22123550671v=22114751812v=22107620604v=22099453903v=22093281025"/>
-  <img alt="my top languages" width="49%" src="https://statss-pink.vercel.app/api/top-langs/?username=KubyKero&layout=compact&theme=radical&cache_seconds=300&v=0v=22240026796v=22232408984v=22224953573v=22217210875v=22212303612v=22208206715v=22198915932v=22191289920v=22182865397v=22174566203v=22169620135v=22165551856v=22156688452v=22149459976v=22140776160v=22132620708v=22127701906v=22123550671v=22114751812v=22107620604v=22099453903v=22093281025"/>
+  <img alt="my stats" width="47%" src="https://statss-pink.vercel.app/api?username=KubyKero&show_icons=true&theme=radical&cache_seconds=300&count_private=true&v=1"/>
+  <img alt="my top languages" width="49%" src="https://statss-pink.vercel.app/api/top-langs/?username=KubyKero&layout=compact&theme=radical&cache_seconds=300&v=1"/>
 </div>
