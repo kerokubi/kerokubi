@@ -17,7 +17,7 @@
   <a href="https://play.picoctf.org/users/KeroKubi" target="_blank">
     <img alt="picoCTF" src="https://img.shields.io/badge/-picoCTF-ff5e57?style=flat-square&logo=picoctf&logoColor=white" style="display: block;" />
   </a>
-  <a href="https://www.hackerrank.com/KeroKuby" target="_blank">
+  <a href="https://www.hackerrank.com/profile/KeroKubi" target="_blank">
     <img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" style="display: block;" />
   </a>
 </p>
